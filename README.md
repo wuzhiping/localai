@@ -3,6 +3,7 @@
 ## https://docs.flowiseai.com/chat-models/chatlocalai
 ## https://docs.flowiseai.com/embeddings/localai-embeddings
 ## https://gpt4all.io
+### http://localhost:4891/v1
 <pre>
 git clone https://github.com/go-skynet/LocalAI
 cd LocalAI
